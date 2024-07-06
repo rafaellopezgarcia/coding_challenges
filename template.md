@@ -1,11 +1,11 @@
-# Valid Anagram
+# Longest Consecutive Sequence
 
 ## Leetcode link
-https://leetcode.com/problems/valid-anagram
 
 ## Level 
-Easy
-
+- [ ] Easy
+- [ ] Medium
+- [ ] Hard
 
 ## Solutions
 
@@ -17,14 +17,10 @@ Python
 #### Status
 - [ ] Not solved
 - [ ] Solved with help
-- [x] Solved
+- [ ] Solved
 
 #### Time to solution
-15 minutes
+18 minutes
 
-### Learned
-To use 
-```python
-all(x==0 for x in occurrences)
-```
+### Mistakes
 
