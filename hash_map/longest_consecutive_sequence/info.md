@@ -6,7 +6,11 @@ https://leetcode.com/problems/longest-consecutive-sequence
 ## Level 
 Easy
 
+
 ## Solutions
+
+### Times Solved
+1
 
 ### Solution 1
 

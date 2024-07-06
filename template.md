@@ -9,6 +9,8 @@
 
 ## Solutions
 
+### Times Solved
+
 ### Solution 1
 
 #### Language
